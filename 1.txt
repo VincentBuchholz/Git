@@ -3,13 +3,8 @@ jeg laver en huske seddel
 
 Ølbong og gummi
 fast merge
-<<<<<<< HEAD
 auto merge
-
-=======
-
 automerge
->>>>>>> b844ae0e95af86ec7d62bb0b86730e3b3f3e5215
 
 
 
